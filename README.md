@@ -1,16 +1,13 @@
-### Hi there 👋
+BEM VINDO AO MEU PERFIL⭐🍉
 
-<!--
-**Cassia22/cassia22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Cassia 🍩
 
-Here are some ideas to get you started:
+Sou estudante da 2ª série do [Alura](https://www.alura.com.br/)📝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📎Este espaço é dedicado para organizar e compartilhar meus projetos desenvolvido📎 
+
+### Quer entrar em contato? Envie um 📫
+
+cassia.rudnik@escola.pr.gov.br
+
+![](https://media.tenor.com/R0C_Sa2mtVsAAAAM/taylorswift-taylor.gif)
